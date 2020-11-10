@@ -344,7 +344,7 @@
       "date": "07.18.20",
       "title": "Ruby・Circular Linked List",
       "description": "Circular linked list is a variation of a linked list where the first node points to the last node and vice versa.",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -352,7 +352,7 @@
       "date": "07.18.20",
       "title": "Ruby・循環リストと(Circular Linked List)は",
       "description": "最初と最後のノードがつながってる連結リスト。",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -360,7 +360,7 @@
       "date": "07.18.20",
       "title": "Ruby・원형 연결 리스트(Circular Linked List)란",
       "description": "첫 번째와 마지막 노드가 서로 연결되어 있는 리스트.",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -492,7 +492,7 @@
       "date": "Aug 08, 2020",
       "title": "BOJ 2167 - 2차원 배열의 합",
       "description": "백준 온라인 저지 문제 2167  풀이",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -500,7 +500,7 @@
       "date": "Jul 11, 2020",
       "title": "Alsing Programming Contest 2020",
       "description": "Solutions to Alsing Programming Contest 2020",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -508,7 +508,7 @@
       "date": "Jul 11, 2020",
       "title": "Alsing Programming Contest 2020",
       "description": "Solutions to Alsing Programming Contest 2020",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -516,7 +516,7 @@
       "date": "Jul 11, 2020",
       "title": "Alsing Programming Contest 2020",
       "description": "Solutions to Alsing Programming Contest 2020",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -524,7 +524,7 @@
       "date": "Jul 05, 2020",
       "title": "AtCoder Beginner Contest 173",
       "description": "ABC 173 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -532,7 +532,7 @@
       "date": "Jul 05, 2020",
       "title": "AtCoder Beginner Contest 173",
       "description": "ABC 173 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -540,7 +540,7 @@
       "date": "Jul 05, 2020",
       "title": "AtCoder Beginner Contest 173",
       "description": "ABC 173 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -548,7 +548,7 @@
       "date": "Jun 27, 2020",
       "title": "AtCoder Beginner Contest 172",
       "description": "ABC 172 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -556,7 +556,7 @@
       "date": "Jun 27, 2020",
       "title": "AtCoder Beginner Contest 172",
       "description": "ABC 172 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -564,7 +564,7 @@
       "date": "Jun 27, 2020",
       "title": "AtCoder Beginner Contest 172",
       "description": "ABC 172 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -572,7 +572,7 @@
       "date": "May 31, 2020",
       "title": "AtCoder Beginner Contest 169",
       "description": "ABC 169 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -580,7 +580,7 @@
       "date": "May 31, 2020",
       "title": "AtCoder Beginner Contest 169",
       "description": "ABC 169 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -588,7 +588,7 @@
       "date": "May 31, 2020",
       "title": "AtCoder Beginner Contest 169",
       "description": "ABC 169 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -596,7 +596,7 @@
       "date": "May 17, 2020",
       "title": "AtCoder Beginner Contest 168",
       "description": "ABC 168 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -604,7 +604,7 @@
       "date": "May 17, 2020",
       "title": "AtCoder Beginner Contest 168",
       "description": "ABC 168 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -612,7 +612,7 @@
       "date": "May 17, 2020",
       "title": "AtCoder Beginner Contest 168",
       "description": "ABC 168 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -620,7 +620,7 @@
       "date": "May 10, 2020",
       "title": "AtCoder Beginner Contest 167",
       "description": "ABC 167 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -628,7 +628,7 @@
       "date": "May 10, 2020",
       "title": "AtCoder Beginner Contest 167",
       "description": "ABC 167 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -636,7 +636,7 @@
       "date": "May 10, 2020",
       "title": "AtCoder Beginner Contest 167",
       "description": "ABC 167 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -644,7 +644,7 @@
       "date": "May 03, 2020",
       "title": "AtCoder Beginner Contest 166",
       "description": "ABC 166 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -652,7 +652,7 @@
       "date": "May 03, 2020",
       "title": "AtCoder Beginner Contest 166",
       "description": "ABC 166 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -660,7 +660,7 @@
       "date": "May 03, 2020",
       "title": "AtCoder Beginner Contest 166",
       "description": "ABC 166 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -668,7 +668,7 @@
       "date": "Apr 12, 2020",
       "title": "AtCoder Beginner Contest 162",
       "description": "ABC 162 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -676,7 +676,7 @@
       "date": "Apr 12, 2020",
       "title": "AtCoder Beginner Contest 162",
       "description": "ABC 162 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -684,7 +684,7 @@
       "date": "Apr 12, 2020",
       "title": "AtCoder Beginner Contest 162",
       "description": "ABC 162 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -692,7 +692,7 @@
       "date": "Apr 04, 2020",
       "title": "AtCoder Beginner Contest 161",
       "description": "ABC 161 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -700,7 +700,7 @@
       "date": "Apr 04, 2020",
       "title": "AtCoder Beginner Contest 161",
       "description": "ABC 161 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -708,7 +708,7 @@
       "date": "Apr 04, 2020",
       "title": "AtCoder Beginner Contest 161",
       "description": "ABC 161 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     },
     {
@@ -716,7 +716,7 @@
       "date": "Feb 04, 2020",
       "title": "AtCoder Beginner Contest 153",
       "description": "ABC 153 Solutions",
-      "published": true,
+      "published": false,
       "lang": "eng"
     },
     {
@@ -724,7 +724,7 @@
       "date": "Feb 04, 2020",
       "title": "AtCoder Beginner Contest 153",
       "description": "ABC 153 Solutions",
-      "published": true,
+      "published": false,
       "lang": "jap"
     },
     {
@@ -732,7 +732,7 @@
       "date": "Feb 04, 2020",
       "title": "AtCoder Beginner Contest 153",
       "description": "ABC 153 Solutions",
-      "published": true,
+      "published": false,
       "lang": "kor"
     }
   ]
